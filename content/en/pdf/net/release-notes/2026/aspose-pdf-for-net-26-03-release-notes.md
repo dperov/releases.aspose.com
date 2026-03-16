@@ -112,7 +112,7 @@ private static void OptimizePdfImagesWithSelectedEncoding()
 
 #### Render Comments When Saving as Image or HTML
 
-Aspose.PDF for .NET 26.3 now supports rendering comments when saving PDF documents as image or HTML. This new feature addresses `PDFNET-42693` and makes it possible to preserve comment visibility in exported output formats instead of limiting them to PDF viewers only.
+Aspose.PDF for .NET 26.3 now supports rendering comments when saving PDF documents as an image or HTML. This new feature addresses `PDFNET-42693` and makes it possible to preserve comment visibility in exported output formats instead of limiting them to PDF viewers only.
 
 This feature is useful for review workflows where annotated documents need to be shared as PNG images or HTML pages while keeping comment information visible in the exported result.
 
