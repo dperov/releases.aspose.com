@@ -26,7 +26,7 @@ This page contains release notes information for Aspose.PDF for .NET 26.3.
 
 #### Lossless Image Stream Recompression During PDF Optimization
 
-Aspose.PDF for .NET 26.3 extends PDF optimization with lossless image stream recompression. As a follow-up to the previously resolved issue `PDFNET-61177`, the `OptimizationOptions.CompressAllContentStreams` property now also compresses image XObject streams with the lossless `FlateDecode` filter when no other filter has already been applied to an image.
+Aspose.PDF for .NET 26.3 enhances PDF optimization by recompressing lossless image streams. As a follow-up to the previously resolved issue `PDFNET-61177`, the `OptimizationOptions.CompressAllContentStreams` property now also compresses image XObject streams with the lossless `FlateDecode` filter when no other filter has already been applied to an image.
 
 This enhancement addresses `PDFNET-61251` and helps further reduce optimized PDF file size while preserving image quality. It was introduced to narrow the optimization gap observed when comparing Aspose.PDF output with qpdf in lossless compression scenarios, especially for documents containing PNG, TIFF, RAW, and similar image streams.
 
