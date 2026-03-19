@@ -5,10 +5,10 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/slides/php-java/new-releases/aspose.slides-for-python-via-java-26.3/"
-folder_name: "Aspose.Slides для Python через Java 26.3"
+folder_name: "Aspose.Slides для PHP через Java 26.3"
 download_link: "/slides/php-java/new-releases/aspose.slides-for-python-via-java-26.3/9fa30d8f6ae281fb0e0eba7f9c741f05-6-14877"
 download_text: "Скачать"
-intro_text: "Он содержит Aspose.Slides для Python на основе Java версии 26.3."
+intro_text: "Он содержит Aspose.Slides для PHP на Java версии 26.3."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 19/3/2026 Скачатьs: 1  Views: 1 "
 file_size: "File Size: 27.4MB"
@@ -22,7 +22,7 @@ weight: 34
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.Slides для Python через Java 26.3" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.Slides для PHP через Java 26.3" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Скачать" link="/slides/php-java/new-releases/aspose.slides-for-python-via-java-26.3/9fa30d8f6ae281fb0e0eba7f9c741f05-6-14877" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/slides" >}}
@@ -43,7 +43,7 @@ weight: 34
       <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/slides/php-java/release-notes/2026/aspose-slides-for-php-via-java-26-3-release-notes/'>https://releases.aspose.com/slides/php-java/release-notes/2026/aspose-slides-for-php-via-java-26-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Описание</h4><div class="HTMLDescription">Он содержит Aspose.Slides для Python на основе Java версии 26.3.</div>
+      <h4>Описание</h4><div class="HTMLDescription">Он содержит Aspose.Slides для PHP на Java версии 26.3.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
