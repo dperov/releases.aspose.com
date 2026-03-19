@@ -4,7 +4,7 @@ slug: "aspose-html-for-python-via-dotnet-26-3-release-notes"
 linktitle: "Aspose.HTML for Python via .NET 26.3 Release Notes"
 title: "Aspose.HTML for Python via .NET 26.3 Release Notes"
 weight: 100
-description: "In this release, the conversion to PDF with tag support has been improved, and the alignment of the grid layout has been improved. The API for working with attachments in MHTML format has also been expanded, and attributes of text elements in SVG format have been fixed. In addition, this release includes numerous improvements to the rendering engine when calculating the layout for blocks, tables, flexbox, and grid layouts."
+description: "Enhanced HTML to PDF conversion with tag support, improved grid alignment, expanded MHTML attachments API, SVG text attributes fixes, and rendering upgrades."
 type: "repository"
 layout: "release"
 hideChildren: false
