@@ -53,7 +53,7 @@ In this example, UTF-8 encoded Chinese text is correctly detected and decoded fr
 ```javascript
 let generator = new BarcodeGenerator(EncodeTypes.DATA_MATRIX, "ASPOSE");
 generator.setCodeText("条形码改进", "UTF-8", false);
-let img = $generator.generateBarCodeImage(BarCodeImageFormat.PNG);
+let img = generator.generateBarCodeImage(BarCodeImageFormat.PNG);
 
 let reader = new BarCodeReader(img, null, DecodeType.DATA_MATRIX);
 reader.getBarcodeSettings().setDetectEncoding(true);
@@ -77,17 +77,18 @@ In this example, multiple ECI segments with different encodings (Win1251, UTF-8,
 are correctly encoded and decoded within a single QR barcode using Extended mode.
 ```javascript
 let textBuilder = new QrExtCodetextBuilder();
+console.log(QrExtCodetextBuilder);
 textBuilder.addECICodetext(ECIEncodings.Win1251, "Will");
 textBuilder.addECICodetext(ECIEncodings.UTF8, "犬Right狗");
 textBuilder.addECICodetext(ECIEncodings.Win1251, "привет");
 textBuilder.addECICodetext(ECIEncodings.UTF16BE, "犬Power狗");
 textBuilder.addPlainCodetext("test");
-let extCodetext = $textBuilder.getExtendedCodetext();
+let extCodetext = textBuilder.getExtendedCodetext();
 
 let generator = new BarcodeGenerator(EncodeTypes.QR, extCodetext);
 generator.getParameters().getBarcode().getQR().setEncodeMode(QREncodeMode.EXTENDED);
 
-let img = $generator.generateBarCodeImage(BarCodeImageFormat.PNG);
+let img = generator.generateBarCodeImage(BarCodeImageFormat.PNG);
 let reader = new BarCodeReader(img, null,DecodeType.QR);
 reader.getBarcodeSettings().setDetectEncoding(true);
 const results = reader.readBarCodes();
