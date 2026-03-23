@@ -22,20 +22,15 @@ committed_by: "Vasiliy.Sinitsyn@aspose.com"
 
 ## This 26.3 .NET release includes the following transparency and audit artifacts:
 
-### EULA & Third-Party Licenses
-
-- <a href="https://about.aspose.com/legal/eula/" target="_blank" rel="noopener">Aspose End User License Agreement</a>
-- {{< compliance-file relpath="/compliance-reports/third-party-licenses/net/third-party-licenses-aspose-tasks-net.pdf" text="Aspose.Tasks for .NET Third-Party License" >}}
-
 
 
 ### Software Bill of Materials (SBOM)
 
-- {{< compliance-file relpath="/compliance-reports/tasks/net/2026/26.3/aspose-tasks-net-26.3_all_sboms.zip?t=1774272549" text="Download All SBOMs (ZIP)" download="true" >}} - 4.3 KB - *Last updated: March 23, 2026, 1:29 PM UTC*
+- {{< compliance-file relpath="/compliance-reports/tasks/net/2026/26.3/aspose-tasks-net-26.3_all_sboms.zip?t=1774275185" text="Download All SBOMs (ZIP)" download="true" >}} - 9 KB - *Last updated: March 23, 2026, 2:13 PM UTC*
 
 | Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
 |----------|----------------|---------------|-----------|----------|
-| .NET 6.0 | {{< compliance-file relpath="/compliance-reports/tasks/net/2026/26.3/aspose-tasks-net-26.3-net6.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/tasks/net/2026/26.3/aspose-tasks-net-26.3-net6.0_sbom-CycloneDX.xml" text="View XML" >}} | - | - |
+| .NET 6.0 | {{< compliance-file relpath="/compliance-reports/tasks/net/2026/26.3/aspose-tasks-net-26.3-net6.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/tasks/net/2026/26.3/aspose-tasks-net-26.3-net6.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/tasks/net/2026/26.3/aspose-tasks-net-26.3-net6.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/tasks/net/2026/26.3/aspose-tasks-net-26.3-net6.0_sbom-SPDX.xml" text="View XML" >}} |
 
 
 
