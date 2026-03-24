@@ -3,7 +3,7 @@ id: "aspose-zip-for-net-26-2-release-notes"
 slug: "aspose-zip-for-net-26-2-release-notes"
 linktitle: "Aspose.ZIP for .NET 26.2 Release Notes"
 title: "Aspose.ZIP for .NET 26.2 Release Notes"
-weight: 15
+weight: 14
 description: "Aspose.ZIP for .NET 26.2 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
