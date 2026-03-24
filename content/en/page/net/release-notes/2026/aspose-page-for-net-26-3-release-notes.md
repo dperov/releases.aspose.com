@@ -1,21 +1,21 @@
 ---
-id: "aspose-page-for-net-26-1-release-notes"
-slug: "aspose-page-for-net-26-1-release-notes"
-linktitle: "Aspose.Page for .NET 26.1 Release Notes"
-title: "Aspose.Page for .NET 26.1 Release Notes"
-weight: 100
-description: "C# .NET API Solution for developers to manipulate and process PS, EPS, and XPS files. Release Notes of Aspose.Page API solution for .NET | Release 2026.01"
+id: "aspose-page-for-net-26-3-release-notes"
+slug: "aspose-page-for-net-26-3-release-notes"
+linktitle: "Aspose.Page for .NET 26.3 Release Notes"
+title: "Aspose.Page for .NET 26.3 Release Notes"
+weight: 98
+description: "C# .NET API Solution for developers to manipulate and process PS, EPS, and XPS files. Release Notes of Aspose.Page API solution for .NET | Release 2026.03"
 type: "repository"
 layout: "release"
 hideChildren: false
 toc: false
-family_listing_page_title: "Aspose.Page for .NET 26.1 Release Notes"
+family_listing_page_title: "Aspose.Page for .NET 26.3 Release Notes"
 menuItemWithNoContent: false
 ---
 
 {{% alert color="primary" %}}
 
-This page contains release notes information for Aspose.Page for .NET 26.1.
+This page contains release notes information for Aspose.Page for .NET 26.3.
 
 {{% /alert %}}
 
