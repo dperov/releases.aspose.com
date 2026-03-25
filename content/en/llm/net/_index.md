@@ -95,3 +95,10 @@ Aspose.LLM for .NET is an on-premise API for integrating large language model ca
 ### Additional Information
 
 > For setup guidance, installation steps, and supported usage patterns, see the official documentation at {{< Common/link href="https://docs.aspose.com/llm/net/" text="docs.aspose.com/llm/net/" >}}.
+
+
+{{< ProductPageWrapper >}}
+<!-- ReleasesListProductPage-->
+{{< Releases/ReleasesListProductPage shownested="false"  directdownload="true" family="llm" product="net" >}}
+<!-- /ReleasesListProductPage-->
+{{< /ProductPageWrapper >}}
