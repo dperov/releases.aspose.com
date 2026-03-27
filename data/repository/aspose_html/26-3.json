@@ -19,14 +19,25 @@
     "classifier" : "jdk17"
   }, {
     "size" : "35 MB",
+    "name" : "aspose-html-26.3-jdk21.jar",
+    "classifier" : "jdk21"
+  }, {
+    "size" : "35 MB",
+    "name" : "aspose-html-26.3-jdk25.jar",
+    "classifier" : "jdk25"
+  }, {
+    "size" : "35 MB",
     "name" : "aspose-html-26.3-jdk8.jar",
     "classifier" : "jdk8"
   }, {
     "size" : "35 MB",
     "name" : "aspose-html-26.3.jar"
   }, {
-    "size" : "394 bytes",
+    "size" : "423 bytes",
     "name" : "aspose-html-26.3.pom"
+  }, {
+    "size" : "217 MB",
+    "name" : "aspose-html-26.3.zip"
   } ],
   "releasehDate" : "2026-03-27T07:09:02+00:00",
   "version" : "26.3",
