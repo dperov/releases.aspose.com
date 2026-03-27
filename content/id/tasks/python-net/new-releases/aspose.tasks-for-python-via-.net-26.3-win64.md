@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-win64/"
 folder_name: "Aspose.Tasks untuk Python melalui .NET 26.3 Win64"
-download_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-win64/07e9ada8b7eda5f920ab9bcc4a88b452-7-14909"
+download_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-win64/07e9ada8b7eda5f920ab9bcc4a88b452-7-14916"
 download_text: "Unduh"
 intro_text: "Paket ini berisi Aspose.Tasks untuk Python melalui .NET 26.3 (khusus Win64)."
 image_link: "/resources/img/random-file-icon.png"
@@ -17,26 +17,26 @@ section_parent_path: "tasks/python-net"
 
 tags: "Aspose.Tasks Python Windows Win64"
 release_notes_url: "https://releases.aspose.com/tasks/python-net/aspose-tasks-for-python-net-26-3-release-notes/"
-weight: 150
+weight: 157
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Tasks untuk Python melalui .NET 26.3 Win64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Unduh" link="/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-win64/07e9ada8b7eda5f920ab9bcc4a88b452-7-14909" >}}
+    {{< Releases/ReleasesSingleButtons text="Unduh" link="/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-win64/07e9ada8b7eda5f920ab9bcc4a88b452-7-14916" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/tasks" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detail File">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Unduhs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-07e9ada8b7eda5f920ab9bcc4a88b452-7-14909" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-07e9ada8b7eda5f920ab9bcc4a88b452-7-14916" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Ukuran file: {{< /Common/li >}}
-      {{< Common/li id="size-update-07e9ada8b7eda5f920ab9bcc4a88b452-7-14909" >}} 48.91MB {{< /Common/li >}}
+      {{< Common/li id="size-update-07e9ada8b7eda5f920ab9bcc4a88b452-7-14916" >}} 48.91MB {{< /Common/li >}}
 
       {{< Common/li >}} Tanggal Ditambahkan: {{< /Common/li >}}
-      {{< Common/li id="added-update-07e9ada8b7eda5f920ab9bcc4a88b452-7-14909" >}}27/3/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-07e9ada8b7eda5f920ab9bcc4a88b452-7-14916" >}}27/3/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
