@@ -3,13 +3,24 @@
   "artifactId" : "aspose-html",
   "id" : "26-3",
   "packageFiles" : [ {
+    "size" : "4 KB",
+    "name" : "aspose-html-26.3-bom.pom"
+  }, {
+    "size" : "35 MB",
+    "name" : "aspose-html-26.3-jdk1.8.jar",
+    "classifier" : "jdk1.8"
+  }, {
+    "size" : "35 MB",
+    "name" : "aspose-html-26.3-jdk8.jar",
+    "classifier" : "jdk8"
+  }, {
     "size" : "35 MB",
     "name" : "aspose-html-26.3.jar"
   }, {
     "size" : "394 bytes",
     "name" : "aspose-html-26.3.pom"
   } ],
-  "releasehDate" : "2026-03-27T07:04:03+00:00",
+  "releasehDate" : "2026-03-27T07:09:02+00:00",
   "version" : "26.3",
   "ReleaseNotes" : "https://releases.aspose.com/html/java/release-notes/2026/aspose-html-for-java-26-3-release-notes/"
 }
