@@ -6,6 +6,10 @@
     "size" : "4 KB",
     "name" : "aspose-html-26.3-bom.pom"
   }, {
+    "size" : "2 MB",
+    "name" : "aspose-html-26.3-javadoc.jar",
+    "classifier" : "javadoc"
+  }, {
     "size" : "35 MB",
     "name" : "aspose-html-26.3-jdk1.8.jar",
     "classifier" : "jdk1.8"
@@ -39,7 +43,7 @@
     "size" : "217 MB",
     "name" : "aspose-html-26.3.zip"
   } ],
-  "releasehDate" : "2026-03-27T07:09:02+00:00",
+  "releasehDate" : "2026-03-27T16:15:03+00:00",
   "version" : "26.3",
   "ReleaseNotes" : "https://releases.aspose.com/html/java/release-notes/2026/aspose-html-for-java-26-3-release-notes/"
 }
