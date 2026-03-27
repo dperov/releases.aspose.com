@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-win32/"
 folder_name: "Aspose.Tasks for Python (.NET 26.3 Win32 経由)"
-download_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-win32/e169ccbb3c47155028a6a50afc1f4b54-6-14908"
+download_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-win32/e169ccbb3c47155028a6a50afc1f4b54-6-14915"
 download_text: "ダウンロード"
 intro_text: "これには、.NET 26.3 Win32 のみのバイナリを介した Aspose.Tasks for Python が含まれています。"
 image_link: "/resources/img/random-file-icon.png"
@@ -17,26 +17,26 @@ section_parent_path: "tasks/python-net"
 
 tags: "Aspose.Tasks Python Windows Win32"
 release_notes_url: "https://releases.aspose.com/tasks/python-net/aspose-tasks-for-python-net-26-3-release-notes/"
-weight: 149
+weight: 156
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Tasks for Python (.NET 26.3 Win32 経由)" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="ダウンロード" link="/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-win32/e169ccbb3c47155028a6a50afc1f4b54-6-14908" >}}
+    {{< Releases/ReleasesSingleButtons text="ダウンロード" link="/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-win32/e169ccbb3c47155028a6a50afc1f4b54-6-14915" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/tasks" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="ファイルの詳細">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} ダウンロードs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-e169ccbb3c47155028a6a50afc1f4b54-6-14908" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-e169ccbb3c47155028a6a50afc1f4b54-6-14915" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} ファイルサイズ: {{< /Common/li >}}
-      {{< Common/li id="size-update-e169ccbb3c47155028a6a50afc1f4b54-6-14908" >}} 41.92MB {{< /Common/li >}}
+      {{< Common/li id="size-update-e169ccbb3c47155028a6a50afc1f4b54-6-14915" >}} 41.92MB {{< /Common/li >}}
 
       {{< Common/li >}} 日付が追加されました: {{< /Common/li >}}
-      {{< Common/li id="added-update-e169ccbb3c47155028a6a50afc1f4b54-6-14908" >}}27/3/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-e169ccbb3c47155028a6a50afc1f4b54-6-14915" >}}27/3/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
