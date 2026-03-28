@@ -31,7 +31,7 @@ committed_by: "vadym.kiprich@aspose.com"
 
 ### Software Bill of Materials (SBOM)
 
-- {{< compliance-file relpath="/compliance-reports/tex/net/2026/26.2/aspose-tex-net-26.2_all_sboms.zip?t=1774683157" text="Download All SBOMs (ZIP)" download="true" >}} - 28.5 KB - *Last updated: March 28, 2026, 7:32 AM UTC*
+- {{< compliance-file relpath="/compliance-reports/tex/net/2026/26.2/aspose-tex-net-26.2_all_sboms.zip?t=1774683183" text="Download All SBOMs (ZIP)" download="true" >}} - 28.5 KB - *Last updated: March 28, 2026, 7:33 AM UTC*
 
 | Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
 |----------|----------------|---------------|-----------|----------|
@@ -43,7 +43,7 @@ committed_by: "vadym.kiprich@aspose.com"
 
 | Report | HTML | PDF |
 |--------|------|-----|
-| CWE Top 25 (2024) | - | {{< compliance-file relpath="/compliance-reports/tex/net/2026/26.2/aspose-tex-net-26.2_cwe-top-25-2026.pdf" text="View PDF" >}} |
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/tex/net/2026/26.2/aspose-tex-net-26.2_cwe-top-25-2026.html" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/tex/net/2026/26.2/aspose-tex-net-26.2_cwe-top-25-2026.pdf" text="View PDF" >}} |
 | OWASP Top 10 (2021) | - | {{< compliance-file relpath="/compliance-reports/tex/net/2026/26.2/aspose-tex-net-26.2_owasp-top-10-2026.pdf" text="View PDF" >}} |
 
 
