@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-linux/"
 folder_name: "Aspose.Tasks for Python via .NET 26.3 Linux"
-download_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-linux/6ad5bb852956a023e4f433ee2be89e29-9-14936"
+download_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-linux/6ad5bb852956a023e4f433ee2be89e29-9-14940"
 download_text: "Download"
 intro_text: "It contains Aspose.Tasks for Python via .NET 26.3 Linux only binaries"
 image_link: "/resources/img/random-file-icon.png"
@@ -17,26 +17,26 @@ section_parent_path: "tasks/python-net"
 
 tags: "Aspose.Tasks Python Linux"
 release_notes_url: "https://releases.aspose.com/tasks/python-net/release-notes/2026/aspose-tasks-for-python-net-26-3-release-notes/"
-weight: 159
+weight: 163
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Tasks for Python via .NET 26.3 Linux" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-linux/6ad5bb852956a023e4f433ee2be89e29-9-14936" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-linux/6ad5bb852956a023e4f433ee2be89e29-9-14940" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/tasks" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="File Details">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-6ad5bb852956a023e4f433ee2be89e29-9-14936" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-6ad5bb852956a023e4f433ee2be89e29-9-14940" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} File Size: {{< /Common/li >}}
-      {{< Common/li id="size-update-6ad5bb852956a023e4f433ee2be89e29-9-14936" >}} 69.39MB {{< /Common/li >}}
+      {{< Common/li id="size-update-6ad5bb852956a023e4f433ee2be89e29-9-14940" >}} 69.39MB {{< /Common/li >}}
 
       {{< Common/li >}} Date Added: {{< /Common/li >}}
-      {{< Common/li id="added-update-6ad5bb852956a023e4f433ee2be89e29-9-14936" >}}30/3/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-6ad5bb852956a023e4f433ee2be89e29-9-14940" >}}30/3/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
