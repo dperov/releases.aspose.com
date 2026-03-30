@@ -40,7 +40,6 @@ Date projectStart = Date.from(startLdt.atZone(ZoneId.systemDefault()).toInstant(
 Project p = new Project();
 p.setStartDate(projectStart);
 
-// 2. Исключение (только дата)
 LocalDate excDate = LocalDate.of(2025, 10, 16);
 Date exceptionDate = Date.from(excDate.atStartOfDay(ZoneId.systemDefault()).toInstant());
 
