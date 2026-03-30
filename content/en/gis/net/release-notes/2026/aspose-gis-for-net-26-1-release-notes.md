@@ -3,7 +3,7 @@ id: "aspose-gis-for-net-26-1-release-notes"
 slug: "aspose-gis-for-net-26-1-release-notes"
 linktitle: "Aspose.GIS for .NET 26.1 Release Notes"
 title: "Aspose.GIS for .NET 26.1 Release Notes"
-weight: 90
+weight: 2612
 description: "Aspose.GIS for .NET 26.1 Release Notes – the latest updates and fixes."
 type: "repository"
 layout: "release"
