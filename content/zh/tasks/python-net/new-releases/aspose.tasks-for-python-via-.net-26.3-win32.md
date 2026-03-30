@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-win32/"
 folder_name: "Aspose.Tasks for Python via .NET 26.3 Win32"
-download_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-win32/e169ccbb3c47155028a6a50afc1f4b54-6-14937"
+download_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-win32/e169ccbb3c47155028a6a50afc1f4b54-6-14941"
 download_text: "下载"
 intro_text: "它包含适用于 Python 的 Aspose.Tasks，通过 .NET 26.3 Win32 二进制文件提供。"
 image_link: "/resources/img/random-file-icon.png"
@@ -17,26 +17,26 @@ section_parent_path: "tasks/python-net"
 
 tags: "Aspose.Tasks Python Windows Win32"
 release_notes_url: "https://releases.aspose.com/tasks/python-net/release-notes/2026/aspose-tasks-for-python-net-26-3-release-notes/"
-weight: 160
+weight: 164
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Tasks for Python via .NET 26.3 Win32" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="下载" link="/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-win32/e169ccbb3c47155028a6a50afc1f4b54-6-14937" >}}
+    {{< Releases/ReleasesSingleButtons text="下载" link="/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-win32/e169ccbb3c47155028a6a50afc1f4b54-6-14941" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/tasks" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="文件详细信息">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} 下载s: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-e169ccbb3c47155028a6a50afc1f4b54-6-14937" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-e169ccbb3c47155028a6a50afc1f4b54-6-14941" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} 文件大小: {{< /Common/li >}}
-      {{< Common/li id="size-update-e169ccbb3c47155028a6a50afc1f4b54-6-14937" >}} 41.92MB {{< /Common/li >}}
+      {{< Common/li id="size-update-e169ccbb3c47155028a6a50afc1f4b54-6-14941" >}} 41.92MB {{< /Common/li >}}
 
       {{< Common/li >}} 添加日期: {{< /Common/li >}}
-      {{< Common/li id="added-update-e169ccbb3c47155028a6a50afc1f4b54-6-14937" >}}30/3/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-e169ccbb3c47155028a6a50afc1f4b54-6-14941" >}}30/3/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
