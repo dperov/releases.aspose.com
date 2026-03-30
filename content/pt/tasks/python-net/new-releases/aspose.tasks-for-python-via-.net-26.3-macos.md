@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-macos/"
 folder_name: "Aspose.Tasks para Python via .NET 26.3 MacOS"
-download_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-macos/1753ae1d391fffcf3fdcd8200ce4f9fb-8-14935"
+download_link: "/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-macos/1753ae1d391fffcf3fdcd8200ce4f9fb-8-14939"
 download_text: "Download"
 intro_text: "Contém Aspose.Tasks para Python via .NET 26.3 (binários exclusivos para MacOS)."
 image_link: "/resources/img/random-file-icon.png"
@@ -17,26 +17,26 @@ section_parent_path: "tasks/python-net"
 
 tags: "Aspose.Tasks Python MacOS"
 release_notes_url: "https://releases.aspose.com/tasks/python-net/release-notes/2026/aspose-tasks-for-python-net-26-3-release-notes/"
-weight: 158
+weight: 162
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.Tasks para Python via .NET 26.3 MacOS" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-macos/1753ae1d391fffcf3fdcd8200ce4f9fb-8-14935" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/tasks/python-net/new-releases/aspose.tasks-for-python-via-.net-26.3-macos/1753ae1d391fffcf3fdcd8200ce4f9fb-8-14939" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/tasks" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-1753ae1d391fffcf3fdcd8200ce4f9fb-8-14935" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-1753ae1d391fffcf3fdcd8200ce4f9fb-8-14939" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Tamanho do arquivo: {{< /Common/li >}}
-      {{< Common/li id="size-update-1753ae1d391fffcf3fdcd8200ce4f9fb-8-14935" >}} 58.43MB {{< /Common/li >}}
+      {{< Common/li id="size-update-1753ae1d391fffcf3fdcd8200ce4f9fb-8-14939" >}} 58.43MB {{< /Common/li >}}
 
       {{< Common/li >}} data adicionada: {{< /Common/li >}}
-      {{< Common/li id="added-update-1753ae1d391fffcf3fdcd8200ce4f9fb-8-14935" >}}30/3/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-1753ae1d391fffcf3fdcd8200ce4f9fb-8-14939" >}}30/3/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
