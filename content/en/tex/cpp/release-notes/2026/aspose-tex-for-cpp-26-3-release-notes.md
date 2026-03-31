@@ -16,7 +16,7 @@ menuItemWithNoContent: false
 
 Aspose.TeX for C++ 26.3 is ready for use with Aspose C++ products version 26.3.
 
-How to use license from file:
+How to get png with math formula:
 ```
     // Example:LaTeXMathRenderer
     // Create rendering options specifying the image resolution 150 dpi
