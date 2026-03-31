@@ -1,6 +1,6 @@
 ---
-id: "aspose-gis-for-python-via-net-26.2-release-notes"
-slug: "aspose-gis-for-python-via-net-26.2-release-notes"
+id: "aspose-gis-for-python-via-net-26-2-release-notes"
+slug: "aspose-gis-for-python-via-net-26-2-release-notes"
 linktitle: "Aspose.GIS for Python via .NET 26.2 Release Notes"
 title: "Aspose.GIS for for Python via .NET 26.2 Release Notes"
 weight: 100
