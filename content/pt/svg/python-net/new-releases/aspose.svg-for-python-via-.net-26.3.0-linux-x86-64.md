@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/svg/python-net/new-releases/aspose.svg-for-python-via-.net-26.3.0-linux-x86-64/"
 folder_name: "Aspose.SVG para Python via .NET 26.3.0 Linux x86-64"
-download_link: "/svg/python-net/new-releases/aspose.svg-for-python-via-.net-26.3.0-linux-x86-64/0c7f04ffb3bbeaded96013ed33241261-1-14970"
+download_link: "/svg/python-net/new-releases/aspose.svg-for-python-via-.net-26.3.0-linux-x86-64/0c7f04ffb3bbeaded96013ed33241261-1-14971"
 download_text: "Download"
 intro_text: "Este pacote contém o Aspose.SVG para Python via .NET versão 26.3.0, compilado para Linux e direcionado à arquitetura x86_64."
 image_link: "/resources/img/random-file-icon.png"
@@ -17,26 +17,26 @@ section_parent_path: "svg/python-net"
 
 tags: ""
 release_notes_url: "https://releases.aspose.com/svg/python-net/release-notes/2026/aspose-svg-python-via-dotnet-26-3-release-notes/"
-weight: 70
+weight: 71
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.SVG para Python via .NET 26.3.0 Linux x86-64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/svg/python-net/new-releases/aspose.svg-for-python-via-.net-26.3.0-linux-x86-64/0c7f04ffb3bbeaded96013ed33241261-1-14970" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/svg/python-net/new-releases/aspose.svg-for-python-via-.net-26.3.0-linux-x86-64/0c7f04ffb3bbeaded96013ed33241261-1-14971" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/svg" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-0c7f04ffb3bbeaded96013ed33241261-1-14970" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-0c7f04ffb3bbeaded96013ed33241261-1-14971" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Tamanho do arquivo: {{< /Common/li >}}
-      {{< Common/li id="size-update-0c7f04ffb3bbeaded96013ed33241261-1-14970" >}} 75.08MB {{< /Common/li >}}
+      {{< Common/li id="size-update-0c7f04ffb3bbeaded96013ed33241261-1-14971" >}} 75.08MB {{< /Common/li >}}
 
       {{< Common/li >}} data adicionada: {{< /Common/li >}}
-      {{< Common/li id="added-update-0c7f04ffb3bbeaded96013ed33241261-1-14970" >}}1/4/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-0c7f04ffb3bbeaded96013ed33241261-1-14971" >}}1/4/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
