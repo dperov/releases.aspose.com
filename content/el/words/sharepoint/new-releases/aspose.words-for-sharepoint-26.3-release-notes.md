@@ -8,9 +8,9 @@ folder_link: "/words/sharepoint/new-releases/aspose.words-for-sharepoint-26.3-re
 folder_name: "Σημειώσεις έκδοσης Aspose.Words για SharePoint 26.3"
 download_link: "/words/sharepoint/new-releases/aspose.words-for-sharepoint-26.3-release-notes/b71b19bc6360384b4975a8b997c173aa-6-14975"
 download_text: "Κατεβάστε"
-intro_text: "Αναβάθμιση στην τελευταία έκδοση του Aspose.Words for Net (26.6). Διορθώσεις σφαλμάτων."
+intro_text: "Αναβάθμιση στην τελευταία έκδοση του Aspose.Words for Net (26.3). Διορθώσεις σφαλμάτων."
 image_link: "/resources/img/zip-icon.png"
-download_count: " 1/4/2026 Κατεβάστεs: 1  Views: 1 "
+download_count: " 1/4/2026 Κατεβάστεs: 2  Views: 1 "
 file_size: "File Size: 28.97MB"
 parent_path: "words/sharepoint"
 section_parent_path: "words/sharepoint"
@@ -31,7 +31,7 @@ weight: 85
     {{< Releases/ReleasesHeading h4txt="Λεπτομέρειες αρχείου">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Κατεβάστεs: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-b71b19bc6360384b4975a8b997c173aa-6-14975" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-b71b19bc6360384b4975a8b997c173aa-6-14975" >}} 2 {{< /Common/li >}}
       {{< Common/li >}} Μέγεθος αρχείου: {{< /Common/li >}}
       {{< Common/li id="size-update-b71b19bc6360384b4975a8b997c173aa-6-14975" >}} 28.97MB {{< /Common/li >}}
 
@@ -43,7 +43,7 @@ weight: 85
       <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/words/sharepoint/release-notes/2026/aspose-words-for-sharepoint-26-3-release-notes/'>https://releases.aspose.com/words/sharepoint/release-notes/2026/aspose-words-for-sharepoint-26-3-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Περιγραφή</h4><div class="HTMLDescription">Αναβάθμιση στην τελευταία έκδοση του Aspose.Words for Net (26.6). Διορθώσεις σφαλμάτων.</div>
+      <h4>Περιγραφή</h4><div class="HTMLDescription">Αναβάθμιση στην τελευταία έκδοση του Aspose.Words for Net (26.3). Διορθώσεις σφαλμάτων.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
