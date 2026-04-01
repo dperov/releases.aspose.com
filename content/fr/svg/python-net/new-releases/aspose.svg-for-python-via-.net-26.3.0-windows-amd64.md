@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/svg/python-net/new-releases/aspose.svg-for-python-via-.net-26.3.0-windows-amd64/"
 folder_name: "Aspose.SVG pour Python via .NET 26.3.0 Windows AMD64"
-download_link: "/svg/python-net/new-releases/aspose.svg-for-python-via-.net-26.3.0-windows-amd64/1e27cf71e8841136a699a01e369e78d1-1-14968"
+download_link: "/svg/python-net/new-releases/aspose.svg-for-python-via-.net-26.3.0-windows-amd64/1e27cf71e8841136a699a01e369e78d1-1-14973"
 download_text: "Télécharger"
 intro_text: "Ce fichier wheel contient Aspose.SVG pour Python via .NET version 26.3.0, conçu pour Windows et ciblant l'architecture AMD64."
 image_link: "/resources/img/random-file-icon.png"
@@ -17,26 +17,26 @@ section_parent_path: "svg/python-net"
 
 tags: ""
 release_notes_url: "https://releases.aspose.com/svg/python-net/release-notes/2026/aspose-svg-python-via-dotnet-26-3-release-notes/"
-weight: 68
+weight: 73
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.SVG pour Python via .NET 26.3.0 Windows AMD64" imagelink="/resources/img/random-file-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Télécharger" link="/svg/python-net/new-releases/aspose.svg-for-python-via-.net-26.3.0-windows-amd64/1e27cf71e8841136a699a01e369e78d1-1-14968" >}}
+    {{< Releases/ReleasesSingleButtons text="Télécharger" link="/svg/python-net/new-releases/aspose.svg-for-python-via-.net-26.3.0-windows-amd64/1e27cf71e8841136a699a01e369e78d1-1-14973" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/svg" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Détails du fichier">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Téléchargers: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-1e27cf71e8841136a699a01e369e78d1-1-14968" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-1e27cf71e8841136a699a01e369e78d1-1-14973" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Taille du fichier: {{< /Common/li >}}
-      {{< Common/li id="size-update-1e27cf71e8841136a699a01e369e78d1-1-14968" >}} 54.66MB {{< /Common/li >}}
+      {{< Common/li id="size-update-1e27cf71e8841136a699a01e369e78d1-1-14973" >}} 54.66MB {{< /Common/li >}}
 
       {{< Common/li >}} date ajoutée: {{< /Common/li >}}
-      {{< Common/li id="added-update-1e27cf71e8841136a699a01e369e78d1-1-14968" >}}1/4/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-1e27cf71e8841136a699a01e369e78d1-1-14973" >}}1/4/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
