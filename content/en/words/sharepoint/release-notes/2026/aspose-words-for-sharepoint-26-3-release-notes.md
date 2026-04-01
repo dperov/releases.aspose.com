@@ -15,7 +15,7 @@ menuItemWithNoContent: false
 
 {{% alert color="primary" %}}
 
-This page contains release notes for [Aspose.Words for SharePoint 26.3](https://releases.aspose.com/words/sharepoint/new-releases/aspose.words-for-sharepoint-26.3/).
+This page contains release notes for [Aspose.Words for SharePoint 26.3](https://releases.aspose.com/words/sharepoint/new-releases/aspose.words-for-sharepoint-26.3-release-notes/).
 This version includes all bug fixes and public API changes made in Aspose.Words for .NET up-to version 26.3, see [Aspose.Words for .NET 26.3 Release Notes](/words/net/release-notes/2026/aspose-words-for-net-26-3-release-notes/) for more information.
 
 {{% /alert %}}
