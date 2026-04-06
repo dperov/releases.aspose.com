@@ -8,7 +8,7 @@ folder_link: "/words/net/new-releases/aspose.words-for-.net-26.4-(dlls-only)/"
 folder_name: "Aspose.Words for .NET 26.4（仅限 DLL 文件）"
 download_link: "/words/net/new-releases/aspose.words-for-.net-26.4-(dlls-only)/c92867be2200914afad71c40ff768a8d-9-14994"
 download_text: "下载"
-intro_text: "此 ZIP 文件包含 Aspose.Words 程序集。"
+intro_text: "此 ZIP 文件包含 Aspose.Words for .NET 和 .NET Standard 2.0 程序集。这些程序集与同一版本产品的 MSI 安装程序中的程序集相同。"
 image_link: "/resources/img/zip-icon.png"
 download_count: " 6/4/2026 下载s: 1  Views: 1 "
 file_size: "File Size: 71.06MB"
@@ -43,7 +43,7 @@ weight: 793
       <h4>发行说明</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2026/aspose-words-for-net-26-4-release-notes/'>https://releases.aspose.com/words/net/release-notes/2026/aspose-words-for-net-26-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>描述</h4><div class="HTMLDescription">此 ZIP 文件包含 Aspose.Words 程序集。</div>
+      <h4>描述</h4><div class="HTMLDescription">此 ZIP 文件包含 Aspose.Words for .NET 和 .NET Standard 2.0 程序集。这些程序集与同一版本产品的 MSI 安装程序中的程序集相同。</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

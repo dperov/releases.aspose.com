@@ -8,7 +8,7 @@ folder_link: "/words/net/new-releases/aspose.words-for-.net-26.4-(dlls-only)/"
 folder_name: "Aspose.Words για .NET 26.4 (μόνο DLL)"
 download_link: "/words/net/new-releases/aspose.words-for-.net-26.4-(dlls-only)/c92867be2200914afad71c40ff768a8d-9-14994"
 download_text: "Κατεβάστε"
-intro_text: "Αυτό το αρχείο ZIP περιέχει τις συναρμολογήσεις Aspose.Words."
+intro_text: "Αυτό το αρχείο ZIP περιέχει τα Aspose.Words για τα συγκροτήματα .NET και .NET Standard 2.0. Τα συγκροτήματα είναι τα ίδια όπως στο πρόγραμμα εγκατάστασης MSI του προϊόντος της ίδιας έκδοσης."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 6/4/2026 Κατεβάστεs: 1  Views: 1 "
 file_size: "File Size: 71.06MB"
@@ -43,7 +43,7 @@ weight: 793
       <h4>Σημειώσεις έκδοσης</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2026/aspose-words-for-net-26-4-release-notes/'>https://releases.aspose.com/words/net/release-notes/2026/aspose-words-for-net-26-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Περιγραφή</h4><div class="HTMLDescription">Αυτό το αρχείο ZIP περιέχει τις συναρμολογήσεις Aspose.Words.</div>
+      <h4>Περιγραφή</h4><div class="HTMLDescription">Αυτό το αρχείο ZIP περιέχει τα Aspose.Words για τα συγκροτήματα .NET και .NET Standard 2.0. Τα συγκροτήματα είναι τα ίδια όπως στο πρόγραμμα εγκατάστασης MSI του προϊόντος της ίδιας έκδοσης.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

@@ -8,7 +8,7 @@ folder_link: "/words/net/new-releases/aspose.words-for-.net-26.4-(dlls-only)/"
 folder_name: "Aspose.Words untuk .NET 26.4 (khusus DLL)"
 download_link: "/words/net/new-releases/aspose.words-for-.net-26.4-(dlls-only)/c92867be2200914afad71c40ff768a8d-9-14994"
 download_text: "Unduh"
-intro_text: "File ZIP ini berisi assembly Aspose.Words."
+intro_text: "File ZIP ini berisi assembly Aspose.Words untuk .NET dan .NET Standard 2.0. Assembly tersebut sama dengan yang ada di installer MSI produk dengan versi yang sama."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 6/4/2026 Unduhs: 1  Views: 1 "
 file_size: "File Size: 71.06MB"
@@ -43,7 +43,7 @@ weight: 793
       <h4>Catatan rilis</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2026/aspose-words-for-net-26-4-release-notes/'>https://releases.aspose.com/words/net/release-notes/2026/aspose-words-for-net-26-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Keterangan</h4><div class="HTMLDescription">File ZIP ini berisi assembly Aspose.Words.</div>
+      <h4>Keterangan</h4><div class="HTMLDescription">File ZIP ini berisi assembly Aspose.Words untuk .NET dan .NET Standard 2.0. Assembly tersebut sama dengan yang ada di installer MSI produk dengan versi yang sama.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

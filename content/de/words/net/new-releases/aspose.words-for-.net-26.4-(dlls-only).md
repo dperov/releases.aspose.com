@@ -8,7 +8,7 @@ folder_link: "/words/net/new-releases/aspose.words-for-.net-26.4-(dlls-only)/"
 folder_name: "Aspose.Words für .NET 26.4 (nur DLLs)"
 download_link: "/words/net/new-releases/aspose.words-for-.net-26.4-(dlls-only)/c92867be2200914afad71c40ff768a8d-9-14994"
 download_text: "Download"
-intro_text: "Diese ZIP-Datei enthält die Aspose.Words-Assemblys."
+intro_text: "Diese ZIP-Datei enthält die Aspose.Words-Assemblys für .NET und .NET Standard 2.0. Die Assemblys sind identisch mit denen im MSI-Installer des Produkts derselben Version."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 6/4/2026 Downloads: 1  Views: 1 "
 file_size: "File Size: 71.06MB"
@@ -43,7 +43,7 @@ weight: 793
       <h4>Versionshinweise</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2026/aspose-words-for-net-26-4-release-notes/'>https://releases.aspose.com/words/net/release-notes/2026/aspose-words-for-net-26-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Beschreibung</h4><div class="HTMLDescription">Diese ZIP-Datei enthält die Aspose.Words-Assemblys.</div>
+      <h4>Beschreibung</h4><div class="HTMLDescription">Diese ZIP-Datei enthält die Aspose.Words-Assemblys für .NET und .NET Standard 2.0. Die Assemblys sind identisch mit denen im MSI-Installer des Produkts derselben Version.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}

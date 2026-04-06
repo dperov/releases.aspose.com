@@ -8,7 +8,7 @@ folder_link: "/words/net/new-releases/aspose.words-for-.net-26.4-(dlls-only)/"
 folder_name: "Aspose.Words for .NET 26.4 (yalnızca DLL'ler)"
 download_link: "/words/net/new-releases/aspose.words-for-.net-26.4-(dlls-only)/c92867be2200914afad71c40ff768a8d-9-14994"
 download_text: "İndirmek"
-intro_text: "Bu ZIP dosyası Aspose.Words derlemelerini içermektedir."
+intro_text: "Bu ZIP dosyası, Aspose.Words for .NET ve .NET Standard 2.0 derlemelerini içerir. Derlemeler, aynı sürümdeki ürünün MSI yükleyicisindekiyle aynıdır."
 image_link: "/resources/img/zip-icon.png"
 download_count: " 6/4/2026 İndirmeks: 1  Views: 1 "
 file_size: "File Size: 71.06MB"
@@ -43,7 +43,7 @@ weight: 793
       <h4>Sürüm notları</h4><div><a href='https://releases.aspose.com/words/net/release-notes/2026/aspose-words-for-net-26-4-release-notes/'>https://releases.aspose.com/words/net/release-notes/2026/aspose-words-for-net-26-4-release-notes/</a></div>
   {{< /Releases/ReleasesFileFeatures >}}
   {{< Releases/ReleasesFileFeatures >}}
-      <h4>Tanım</h4><div class="HTMLDescription">Bu ZIP dosyası Aspose.Words derlemelerini içermektedir.</div>
+      <h4>Tanım</h4><div class="HTMLDescription">Bu ZIP dosyası, Aspose.Words for .NET ve .NET Standard 2.0 derlemelerini içerir. Derlemeler, aynı sürümdeki ürünün MSI yükleyicisindekiyle aynıdır.</div>
   {{< /Releases/ReleasesFileFeatures >}}
  {{< /Releases/ReleasesFileArea >}}
 {{< /Releases/ReleasesWapper >}}
