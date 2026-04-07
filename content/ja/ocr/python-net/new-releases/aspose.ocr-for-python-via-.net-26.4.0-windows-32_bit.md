@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-26.4.0-windows-32_bit/"
-folder_name: "Aspose.OCR for Python (.NET 26.4.0、Windows 32ビット版)"
+folder_name: "Aspose.OCR for Python (.NET 26.4 Windows 32_bit 経由)"
 download_link: "/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-26.4.0-windows-32_bit/480f88dce985cd7cf6166db67d1a72df-24-15003"
 download_text: "ダウンロード"
 intro_text: "検出テーブル"
@@ -22,7 +22,7 @@ weight: 144
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.OCR for Python (.NET 26.4.0、Windows 32ビット版)" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.OCR for Python (.NET 26.4 Windows 32_bit 経由)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="ダウンロード" link="/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-26.4.0-windows-32_bit/480f88dce985cd7cf6166db67d1a72df-24-15003" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/ocr" >}}
