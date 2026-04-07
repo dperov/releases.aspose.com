@@ -5,7 +5,7 @@ description: " "
 keywords: ""
 page_type: single_release_page
 folder_link: "/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-26.4-linux-x86-64/"
-folder_name: "Aspose.OCR untuk Python melalui .NET 26.4 Linux x86-64"
+folder_name: "Aspose.OCR untuk Python melalui .NET 26.4 Linux x86_64"
 download_link: "/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-26.4-linux-x86-64/d5acfafb59578e5fd39a08085e51c638-26-15002"
 download_text: "Unduh"
 intro_text: "mendeteksi tabel"
@@ -22,7 +22,7 @@ weight: 143
 ---
 
 {{< Releases/ReleasesWapper >}}
-  {{< Releases/ReleasesHeading H2txt="Aspose.OCR untuk Python melalui .NET 26.4 Linux x86-64" imagelink="/resources/img/zip-icon.png">}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.OCR untuk Python melalui .NET 26.4 Linux x86_64" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
     {{< Releases/ReleasesSingleButtons text="Unduh" link="/ocr/python-net/new-releases/aspose.ocr-for-python-via-.net-26.4-linux-x86-64/d5acfafb59578e5fd39a08085e51c638-26-15002" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/ocr" >}}
