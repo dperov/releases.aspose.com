@@ -14,6 +14,7 @@ menuItemWithNoContent: false
 committed_by: "samer.el-khatib@aspose.com"
 ---
 
+![SBOM Available](https://img.shields.io/badge/SBOM-Available-brightgreen?style=flat-square&logo=dependabot)
 ![Security Rating](https://img.shields.io/badge/Security%20Rating-A-brightgreen?style=flat-square&logo=verizon)
 ![CWE Top 25](https://img.shields.io/badge/CWE%20Top%2025-2024-blue?style=flat-square&logo=checkmarx)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-2021-blue?style=flat-square&logo=openaccess)
@@ -21,12 +22,19 @@ committed_by: "samer.el-khatib@aspose.com"
 
 ## This 26.4 .NET release includes the following transparency and audit artifacts:
 
-### EULA & Third-Party Licenses
-
-- <a href="https://about.aspose.com/legal/eula/" target="_blank" rel="noopener">Aspose End User License Agreement</a>
-- {{< compliance-file relpath="/compliance-reports/third-party-licenses/net/third-party-licenses-aspose-imaging-net.pdf" text="Aspose.Imaging for .NET Third-Party License" >}}
 
 
+### Software Bill of Materials (SBOM)
+
+- {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.4/aspose-imaging-net-26.4_all_sboms.zip?t=1775665457" text="Download All SBOMs (ZIP)" download="true" >}} - 396.1 KB - *Last updated: April 8, 2026, 4:24 PM UTC*
+
+| Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
+|----------|----------------|---------------|-----------|----------|
+| .NET 4.0 | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.4/aspose-imaging-net-26.4-net4.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.4/aspose-imaging-net-26.4-net4.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.4/aspose-imaging-net-26.4-net4.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.4/aspose-imaging-net-26.4-net4.0_sbom-SPDX.xml" text="View XML" >}} |
+| .NET 6.0 | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.4/aspose-imaging-net-26.4-net6.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.4/aspose-imaging-net-26.4-net6.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.4/aspose-imaging-net-26.4-net6.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.4/aspose-imaging-net-26.4-net6.0_sbom-SPDX.xml" text="View XML" >}} |
+| .NET 7.0 | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.4/aspose-imaging-net-26.4-net7.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.4/aspose-imaging-net-26.4-net7.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.4/aspose-imaging-net-26.4-net7.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.4/aspose-imaging-net-26.4-net7.0_sbom-SPDX.xml" text="View XML" >}} |
+| .NET 8.0 | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.4/aspose-imaging-net-26.4-net8.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.4/aspose-imaging-net-26.4-net8.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.4/aspose-imaging-net-26.4-net8.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.4/aspose-imaging-net-26.4-net8.0_sbom-SPDX.xml" text="View XML" >}} |
+| .NET Standard 2.0 | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.4/aspose-imaging-net-26.4-netstandard2.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.4/aspose-imaging-net-26.4-netstandard2.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.4/aspose-imaging-net-26.4-netstandard2.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/imaging/net/2026/26.4/aspose-imaging-net-26.4-netstandard2.0_sbom-SPDX.xml" text="View XML" >}} |
 
 
 
