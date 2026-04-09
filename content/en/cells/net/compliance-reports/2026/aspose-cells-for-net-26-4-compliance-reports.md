@@ -31,16 +31,16 @@ committed_by: "Johnson.Shi@aspose.com"
 
 ### Software Bill of Materials (SBOM)
 
-- {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4_all_sboms.zip?t=1775724746" text="Download All SBOMs (ZIP)" download="true" >}} - 44.9 KB - *Last updated: April 9, 2026, 8:52 AM UTC*
+- {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4_all_sboms.zip?t=1775724786" text="Download All SBOMs (ZIP)" download="true" >}} - 90.6 KB - *Last updated: April 9, 2026, 8:53 AM UTC*
 
 | Platform | CycloneDX JSON | CycloneDX XML | SPDX JSON | SPDX XML |
 |----------|----------------|---------------|-----------|----------|
-| .NET 10.0 | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net10.0_sbom-CycloneDX.json" text="View JSON" >}} | - | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net10.0_sbom-SPDX.json" text="View JSON" >}} | - |
-| .NET 4.0 | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net4.0_sbom-CycloneDX.json" text="View JSON" >}} | - | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net4.0_sbom-SPDX.json" text="View JSON" >}} | - |
-| .NET 4.8 | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net4.8_sbom-CycloneDX.json" text="View JSON" >}} | - | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net4.8_sbom-SPDX.json" text="View JSON" >}} | - |
-| .NET 6.0 | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net6.0_sbom-CycloneDX.json" text="View JSON" >}} | - | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net6.0_sbom-SPDX.json" text="View JSON" >}} | - |
-| .NET 8.0 | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net8.0_sbom-CycloneDX.json" text="View JSON" >}} | - | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net8.0_sbom-SPDX.json" text="View JSON" >}} | - |
-| .NET 9.0 | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net9.0_sbom-CycloneDX.json" text="View JSON" >}} | - | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net9.0_sbom-SPDX.json" text="View JSON" >}} | - |
+| .NET 10.0 | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net10.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net10.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net10.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net10.0_sbom-SPDX.xml" text="View XML" >}} |
+| .NET 4.0 | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net4.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net4.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net4.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net4.0_sbom-SPDX.xml" text="View XML" >}} |
+| .NET 4.8 | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net4.8_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net4.8_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net4.8_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net4.8_sbom-SPDX.xml" text="View XML" >}} |
+| .NET 6.0 | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net6.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net6.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net6.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net6.0_sbom-SPDX.xml" text="View XML" >}} |
+| .NET 8.0 | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net8.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net8.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net8.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net8.0_sbom-SPDX.xml" text="View XML" >}} |
+| .NET 9.0 | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net9.0_sbom-CycloneDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net9.0_sbom-CycloneDX.xml" text="View XML" >}} | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net9.0_sbom-SPDX.json" text="View JSON" >}} | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-net9.0_sbom-SPDX.xml" text="View XML" >}} |
 
 
 
@@ -48,8 +48,8 @@ committed_by: "Johnson.Shi@aspose.com"
 
 | Report | HTML | PDF |
 |--------|------|-----|
-| CWE Top 25 (2024) | - | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-cwe-top-25-2024.pdf" text="View PDF" >}} |
-| OWASP Top 10 (2021) | - | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-owasp-top-10-2021.pdf" text="View PDF" >}} |
+| CWE Top 25 (2024) | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-cwe-top-25-2024.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-cwe-top-25-2024.pdf" text="View PDF" >}} |
+| OWASP Top 10 (2021) | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-owasp-top-10-2021.htm" text="View HTML" >}} | {{< compliance-file relpath="/compliance-reports/cells/net/2026/26.4/aspose-cells-net-26.4-owasp-top-10-2021.pdf" text="View PDF" >}} |
 
 
 
