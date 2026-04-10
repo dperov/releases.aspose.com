@@ -53,7 +53,6 @@ This page contains release notes for [Aspose.Cells for .NET 26.4](https://www.nu
 |CELLSNET-59983|Removing the first row of a table gives error|Bug
 |CELLSNET-60007|Issue with AutoFitColumns function|Bug
 |CELLSNET-60008|An extra blank row was inserted when pivot table does not contain grandtotal row.|Bug
-|CELLSNET-60034|Data corruption and '#VALUE!' errors after XLSX to XLSM to XLSX conversion|Bug
 |CELLSNET-60044|Invalid row subheading area if  blank rows are inserted for the next level pivot file|Bug
 |CELLSNET-60048|Enhance the style of  pivot filter region with pagination|Bug
 |CELLSNET-60066|Embedded objects becomes pictures.|Bug
