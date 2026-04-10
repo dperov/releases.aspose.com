@@ -19,6 +19,9 @@ This page contains release notes for [Aspose.Cells for Node.js via Java 26.4](ht
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
+|CELLSNODEJSJAVA-86|Migrate Aspose.Cells for Node.js via Java from node-java (NAN) to N-API|Improvement
+|CELLSNODEJSJAVA-92|Migrate node-java (NAN) to N-API|Improvement
+|CELLSNODEJSJAVA-98|Invalid XML (Schema violation and GUID lowercasing) on Workbook.saveAsync method|Bug
 |CELLSJAVA-46578|Support REGEXTEST function|New Feature
 |CELLSJAVA-46682|Support to decrypt encrypted ods with odf 1.4 specification |New Feature
 |CELLSJAVA-46686|"CellsException: Corrupted file. (ExceptionType.IO)" on Workbook constructor when using incorrect password for ODS/OTS files|Enhancement
