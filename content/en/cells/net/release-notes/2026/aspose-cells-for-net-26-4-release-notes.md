@@ -22,6 +22,7 @@ This page contains release notes for [Aspose.Cells for .NET 26.4](https://www.nu
 |CELLSNET-59903|Support to calculate REGEXEXTRACT function|New Feature
 |CELLSNET-59904|Support to calculate REGEXREPLACE function|New Feature
 |CELLSNET-59975|Support to expend table when copying ranges|New Feature
+|CELLSNET-59989|Support to decrypt encrypted ods with odf 1.4 specification in .NetFramwork4.8, .net6, .net8 or above|New Feature
 |CELLSNET-59964|Support to copy one rich value from another workbook|Enhancement
 |CELLSNET-59976|Shift formulas after insert cut ranges|Enhancement
 |CELLSNET-60018|Support to format a whole row or column of pivot table|Enhancement
@@ -43,7 +44,6 @@ This page contains release notes for [Aspose.Cells for .NET 26.4](https://www.nu
 |CELLSNET-59947|Missing label in the legend of a PivotChart on Chart.ToPdf method|Bug
 |CELLSNET-59972|Abnormal "Infinity" data appears in the XPS file|Bug
 |CELLSNET-59986|Chart legend incorrectly displays hidden 'Lower Bound' series and omits 'Range' series during export|Bug
-|CELLSNET-59989|Support to decrypt encrypted odf 1.4 in .NetFramwork4.8, .net6, .net8 or above|Bug
 |CELLSNET-59827|Indent of pivot item is not same as MS Excel|Bug
 |CELLSNET-59942|Copying sheets between workbooks causes issues when textjoin is used in a formula|Bug
 |CELLSNET-59950|STOCKHISTORY formula caused circular reference error in xlsb|Bug
@@ -68,13 +68,13 @@ Indicates whether to refer to target worksheet if the referred worksheet is not 
 
 ### **Adds new member ErrorCellValueType.Value.**
 
-Represents the value of a cell containing a #VALUE! error.
+Represents the value of a cell containing a `#VALUE!` error.
 
 ### **Adds new member ErrorCellValueType.Ref.**
 
-Represents the value of a cell containing a #REF! error.
+Represents the value of a cell containing a `#REF!` error.
 
 ### **Adds new member ErrorCellValueType.NA.**
 
-Represents the value of a cell containing a #NAME? error.
+Represents the value of a cell containing a `#N/A` error.
 
