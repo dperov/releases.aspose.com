@@ -3,7 +3,7 @@ id: "aspose-cells-for-php-via-java-26-4-release-notes"
 slug: "aspose-cells-for-php-via-java-26-4-release-notes"
 linktitle: "Aspose.Cells for PHP via Java 26.4 Release Notes"
 title: "Aspose.Cells for PHP via Java 26.4 Release Notes"
-weight: 12
+weight: 9
 description: "Aspose.Cells for PHP via Java 26.4 Release Notes – the latest enhancements, new features, and fixes."
 type: "repository"
 layout: "release"
