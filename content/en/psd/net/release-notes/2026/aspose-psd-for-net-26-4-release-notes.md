@@ -140,5 +140,5 @@ void AssertAreEqual(object expected, object actual, string message = null)
 **PSDNET-2710. PSD files with adjusted Hue/Saturation will throw the exception PsdImageArgumentException - Invalid Hue2 Resource data.**
 
 {{< highlight csharp >}}
-new Hue2Resource(new byte[136]);
+var hue2 = new Hue2Resource(new byte[136]);
 {{< /highlight >}}
