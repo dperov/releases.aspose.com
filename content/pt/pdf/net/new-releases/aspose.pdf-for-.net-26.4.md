@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/net/new-releases/aspose.pdf-for-.net-26.4/"
 folder_name: "Aspose.PDF para .NET 26.4"
-download_link: "/pdf/net/new-releases/aspose.pdf-for-.net-26.4/c592f24697308fdef6b6c052229e4242-26-15045"
+download_link: "/pdf/net/new-releases/aspose.pdf-for-.net-26.4/c592f24697308fdef6b6c052229e4242-26-15047"
 download_text: "Download"
 intro_text: "Contém o instalador MSI do Aspose.PDF para .NET 26.4."
 image_link: "/resources/img/msi-icon.png"
@@ -17,26 +17,26 @@ section_parent_path: "pdf/net"
 
 tags: "pdf"
 release_notes_url: "https://docs.aspose.com/pdf/net/2026/aspose-pdf-for-net-26-4-release-notes/"
-weight: 953
+weight: 955
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.PDF para .NET 26.4" imagelink="/resources/img/msi-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/pdf/net/new-releases/aspose.pdf-for-.net-26.4/c592f24697308fdef6b6c052229e4242-26-15045" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/pdf/net/new-releases/aspose.pdf-for-.net-26.4/c592f24697308fdef6b6c052229e4242-26-15047" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Detalhes do arquivo">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-c592f24697308fdef6b6c052229e4242-26-15045" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-c592f24697308fdef6b6c052229e4242-26-15047" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Tamanho do arquivo: {{< /Common/li >}}
-      {{< Common/li id="size-update-c592f24697308fdef6b6c052229e4242-26-15045" >}} 204.13MB {{< /Common/li >}}
+      {{< Common/li id="size-update-c592f24697308fdef6b6c052229e4242-26-15047" >}} 204.13MB {{< /Common/li >}}
 
       {{< Common/li >}} data adicionada: {{< /Common/li >}}
-      {{< Common/li id="added-update-c592f24697308fdef6b6c052229e4242-26-15045" >}}14/4/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-c592f24697308fdef6b6c052229e4242-26-15047" >}}14/4/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
