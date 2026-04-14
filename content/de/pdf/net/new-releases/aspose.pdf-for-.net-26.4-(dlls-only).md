@@ -6,7 +6,7 @@ keywords: ""
 page_type: single_release_page
 folder_link: "/pdf/net/new-releases/aspose.pdf-for-.net-26.4-(dlls-only)/"
 folder_name: "Aspose.PDF für .NET 26.4 (nur DLLs)"
-download_link: "/pdf/net/new-releases/aspose.pdf-for-.net-26.4-(dlls-only)/6bd9454777c5cf85a13426997b5af524-26-15044"
+download_link: "/pdf/net/new-releases/aspose.pdf-for-.net-26.4-(dlls-only)/6bd9454777c5cf85a13426997b5af524-26-15046"
 download_text: "Download"
 intro_text: "Diese ZIP-Datei enthält ausschließlich die Aspose.PDF-Assemblys für .NET. Die Assemblys entsprechen denen des MSI-Installers der gleichen Produktversion. Laden Sie diese Datei herunter, wenn Sie Aspose.PDF ohne den MSI-Installer verwenden möchten."
 image_link: "/resources/img/zip-icon.png"
@@ -17,26 +17,26 @@ section_parent_path: "pdf/net"
 
 tags: "pdf"
 release_notes_url: "https://docs.aspose.com/pdf/net/2026/aspose-pdf-for-net-26-4-release-notes/"
-weight: 952
+weight: 954
 
 ---
 
 {{< Releases/ReleasesWapper >}}
   {{< Releases/ReleasesHeading H2txt="Aspose.PDF für .NET 26.4 (nur DLLs)" imagelink="/resources/img/zip-icon.png">}}
   {{< Releases/ReleasesButtons >}}
-    {{< Releases/ReleasesSingleButtons text="Download" link="/pdf/net/new-releases/aspose.pdf-for-.net-26.4-(dlls-only)/6bd9454777c5cf85a13426997b5af524-26-15044" >}}
+    {{< Releases/ReleasesSingleButtons text="Download" link="/pdf/net/new-releases/aspose.pdf-for-.net-26.4-(dlls-only)/6bd9454777c5cf85a13426997b5af524-26-15046" >}}
     {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
   {{< Releases/ReleasesButtons >}}
   {{< Releases/ReleasesFileArea >}}
     {{< Releases/ReleasesHeading h4txt="Dateidetails">}}
     {{< Releases/ReleasesDetailsUl >}}
       {{< Common/li >}} Downloads: {{< /Common/li >}}
-      {{< Common/li class="downloadcount" id="dwn-update-6bd9454777c5cf85a13426997b5af524-26-15044" >}} 1 {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-6bd9454777c5cf85a13426997b5af524-26-15046" >}} 1 {{< /Common/li >}}
       {{< Common/li >}} Dateigröße: {{< /Common/li >}}
-      {{< Common/li id="size-update-6bd9454777c5cf85a13426997b5af524-26-15044" >}} 203.72MB {{< /Common/li >}}
+      {{< Common/li id="size-update-6bd9454777c5cf85a13426997b5af524-26-15046" >}} 203.72MB {{< /Common/li >}}
 
       {{< Common/li >}} Datum hinzugefügt: {{< /Common/li >}}
-      {{< Common/li id="added-update-6bd9454777c5cf85a13426997b5af524-26-15044" >}}14/4/2026 {{< /Common/li >}}
+      {{< Common/li id="added-update-6bd9454777c5cf85a13426997b5af524-26-15046" >}}14/4/2026 {{< /Common/li >}}
     {{< /Releases/ReleasesDetailsUl >}}
 
   {{< Releases/ReleasesFileFeatures >}}
