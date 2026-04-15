@@ -28,7 +28,7 @@ This page contains release notes information for Aspose.PDF for .NET 26.4.
 
 #### Improved PDF to Image Conversion Performance
 
-Aspose.PDF for .NET 26.4 includes significant performance improvements for PDF to image conversion. This enhancement addresses `PDFNET-41182`, where converting PDF pages to JPEG images had been reported as taking too long, with each page requiring several seconds to process.
+Aspose.PDF for .NET 26.4 introduces significant performance improvements for PDF-to-image conversion. This enhancement addresses issue `PDFNET-41182`, where converting PDF pages to JPEG images was reported to be slow, with each page taking several seconds to process.
 
 With this update, the same scenario shows a much faster conversion time, making high-volume image export workflows more efficient when rasterizing PDF pages to JPEG format.
 
