@@ -68,7 +68,7 @@ private static void ConvertPdfToJpeg()
 
 Aspose.PDF for .NET 26.4 improves the performance of `PdfUaConvertStrategy.Process_7_1_structureTree` when working with large PDF documents. This enhancement addresses issue `PDFNET-61884`, where CPU profiling identified the `pageMCIDs.Contains(key)` call as the primary performance bottleneck during structure tree processing.
 
-By replacing the `List<string>` lookup with a `HashSet<ulong>` and using a composite key instead of string formatting, this update provides a significant performance improvement when converting large PDF documents to PDF/UA format.
+By replacing the `List<string>` lookup with a `HashSet<ulong>` and introducing a composite key instead of relying on string formatting, this update delivers a significant performance boost when converting large PDF documents to PDF/UA format.
 
 Here is an example of how to use this enhancement:
 
