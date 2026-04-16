@@ -1,0 +1,51 @@
+---
+
+title: "Загрузки ---Новые релизы-aspose.pdf-for-python-via-.net-26.3.0-macos-x86-64"
+description: " "
+keywords: ""
+page_type: single_release_page
+folder_link: "/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-26.3.0-macos-x86-64/"
+folder_name: "Aspose.PDF для Python через .NET 26.3.0 MacOS x86-64"
+download_link: "/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-26.3.0-macos-x86-64/018fcdae5e0567a1164f8742186c75e0-19-15063"
+download_text: "Скачать"
+intro_text: "Этот пакет содержит Aspose.PDF для Python через .NET версии 26.3.0, совместимый с Python 3 и разработанный для систем macOS с ориентацией на архитектуру x86_64."
+image_link: "/resources/img/random-file-icon.png"
+download_count: " 16/4/2026 Скачатьs: 1  Views: 1 "
+file_size: "File Size: 94.26MB"
+parent_path: "pdf/pythonnet"
+section_parent_path: "pdf/pythonnet"
+
+tags: ""
+release_notes_url: "https://releases.aspose.com/pdf/pythonnet/release-notes/2026/aspose-pdf-for-python-net-26-3-release-notes/"
+weight: 124
+
+---
+
+{{< Releases/ReleasesWapper >}}
+  {{< Releases/ReleasesHeading H2txt="Aspose.PDF для Python через .NET 26.3.0 MacOS x86-64" imagelink="/resources/img/random-file-icon.png">}}
+  {{< Releases/ReleasesButtons >}}
+    {{< Releases/ReleasesSingleButtons text="Скачать" link="/pdf/pythonnet/new-releases/aspose.pdf-for-python-via-.net-26.3.0-macos-x86-64/018fcdae5e0567a1164f8742186c75e0-19-15063" >}}
+    {{< Releases/ReleasesSingleButtons text="Support Forum" link="https://forum.aspose.com/c/pdf" >}}
+  {{< Releases/ReleasesButtons >}}
+  {{< Releases/ReleasesFileArea >}}
+    {{< Releases/ReleasesHeading h4txt="Детали файла">}}
+    {{< Releases/ReleasesDetailsUl >}}
+      {{< Common/li >}} Скачатьs: {{< /Common/li >}}
+      {{< Common/li class="downloadcount" id="dwn-update-018fcdae5e0567a1164f8742186c75e0-19-15063" >}} 1 {{< /Common/li >}}
+      {{< Common/li >}} Размер файла: {{< /Common/li >}}
+      {{< Common/li id="size-update-018fcdae5e0567a1164f8742186c75e0-19-15063" >}} 94.26MB {{< /Common/li >}}
+
+      {{< Common/li >}} Дата добавления: {{< /Common/li >}}
+      {{< Common/li id="added-update-018fcdae5e0567a1164f8742186c75e0-19-15063" >}}16/4/2026 {{< /Common/li >}}
+    {{< /Releases/ReleasesDetailsUl >}}
+
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Выпуск заметок</h4><div><a href='https://releases.aspose.com/pdf/pythonnet/release-notes/2026/aspose-pdf-for-python-net-26-3-release-notes/'>https://releases.aspose.com/pdf/pythonnet/release-notes/2026/aspose-pdf-for-python-net-26-3-release-notes/</a></div>
+  {{< /Releases/ReleasesFileFeatures >}}
+  {{< Releases/ReleasesFileFeatures >}}
+      <h4>Описание</h4><div class="HTMLDescription">Этот пакет содержит Aspose.PDF для Python через .NET версии 26.3.0, совместимый с Python 3 и разработанный для систем macOS с ориентацией на архитектуру x86_64.</div>
+  {{< /Releases/ReleasesFileFeatures >}}
+ {{< /Releases/ReleasesFileArea >}}
+{{< /Releases/ReleasesWapper >}}
+
+
