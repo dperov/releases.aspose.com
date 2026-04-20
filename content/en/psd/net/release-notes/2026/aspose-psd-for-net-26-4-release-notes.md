@@ -90,12 +90,12 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile, loadOptions))
 **PSDNET-2701. Implement rendering of Gradient with Smooth method.**
 
 {{< highlight csharp >}}
-string sourceFile = Path.Combine(baseFolder, "Fill_Layer.psd");
-string outputFile = Path.Combine(outputFolder, "output_Fill_Layer.psd");
-string outputFilePng = Path.Combine(outputFolder, "output_Fill_Layer.png");
+string sourceFile = Path.Combine(baseFolder, "GradientOverlay.psd");
+string outputFile = Path.Combine(outputFolder, "output_GradientOverlay.psd");
+string outputFilePng = Path.Combine(outputFolder, "output_GradientOverlay.png");
 
 var srcMethod = InterpolationMethod.Linear;
-var newMethod = InterpolationMethod.Classic;
+var newMethod = InterpolationMethod.Smooth;
 
 var opt = new PsdLoadOptions()
 {
@@ -105,13 +105,12 @@ var opt = new PsdLoadOptions()
 using (var image = (PsdImage)Image.Load(sourceFile, opt))
 {
     // Read
-    var fillLayer = image.Layers[1] as FillLayer;
-    var gradientSettings = fillLayer.FillSettings as GradientFillSettings;
+    var effect = image.Layers[1].BlendingOptions.Effects[0] as GradientOverlayEffect;
+    var gradientSettings = effect.Settings;
     AssertAreEqual(srcMethod, gradientSettings.InterpolationMethod);
 
     // Change
     gradientSettings.InterpolationMethod = newMethod;
-    fillLayer.Update();
 
     image.Save(outputFile);
     image.Save(outputFilePng, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
@@ -120,12 +119,10 @@ using (var image = (PsdImage)Image.Load(sourceFile, opt))
 // Check saved data
 using (var image = (PsdImage)Image.Load(outputFile, opt))
 {
-    var fillLayer = image.Layers[1] as FillLayer;
-    var gradientSettings = fillLayer.FillSettings as GradientFillSettings;
-    var gdflResource = fillLayer.Resources[0] as GdFlResource;
+    var effect = image.Layers[1].BlendingOptions.Effects[0] as GradientOverlayEffect;
+    var gradientSettings = effect.Settings;
 
     AssertAreEqual(newMethod, gradientSettings.InterpolationMethod);
-    AssertAreEqual(newMethod, gdflResource.InterpolationMethod);
 }
 
 void AssertAreEqual(object expected, object actual, string message = null)
